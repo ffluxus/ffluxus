@@ -17,5 +17,5 @@ Timeline:
 - initial video recording of discussion with Caitlin on on [wobble](https://youtu.be/wFOjesiXP7s) resulting in idea to reorient from realizing the initial project idea - to the creation of the organization and seeing what comes out of that.
 - github oranization and org repository created
 - this timeline document created
-- [placeholder site](fflux.us) created
+- [placeholder site](https://fflux.us) created
 - initial invitation to meetings sent out

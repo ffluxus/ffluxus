@@ -52,8 +52,14 @@ Timeline:
 - this timeline document created
 - [placeholder site](https://fflux.us) created
 - site code committed to repo
-- initial invitation to meetings sent out
 
+2022-04-10
+- initial [video invitation](https://youtu.be/AaGrtUdKXHE) to meetings sent out
+- [Appointment Calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU95WWtMQm9xbzZJfGRlZmF1bHR8YjU2MWEzMzQzZjRiODNlYWU4N2IzMTk1YzA4ZGEwMGY) shared
+- meeting scheduled with (Todd Steinberg)[https://praisefloyd.com/]
+- meeting scheduled with (Curtis Saxton)[https://thecreativefinder.com/saxdes]
+- initial [question list](https://github.com/ffluxus/ffluxus/blob/main/initial-questions.md) in process
+- 
 ---
 ## Meeting Notes and Agenda
 

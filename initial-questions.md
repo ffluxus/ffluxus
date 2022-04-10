@@ -12,3 +12,5 @@ All of these are questions about you, i'm not trying to get universal definition
 9. What is a public place which you don't want anyone to know that you go to? 
 10. in the last week, what is the most important thing that has happened to you in a public place? 
 10b. in the last year? 
+11. what's a public place where you get dressed up to go.
+12. what's a public place you would not want to get dressed up for?

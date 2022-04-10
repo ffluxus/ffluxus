@@ -54,7 +54,7 @@ Timeline:
 - site code committed to repo
 
 2022-04-10
-- initial [video invitation](https://youtu.be/AaGrtUdKXHE) to meetings sent out
+- initial [video invitation](https://youtu.be/AaGrtUdKXHE) to meetings recorded and sent out (via facebook, instagram, & text)
 - [Appointment Calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU95WWtMQm9xbzZJfGRlZmF1bHR8YjU2MWEzMzQzZjRiODNlYWU4N2IzMTk1YzA4ZGEwMGY) shared
 - meeting scheduled with (Todd Steinberg)[https://praisefloyd.com/]
 - meeting scheduled with (Curtis Saxton)[https://thecreativefinder.com/saxdes]

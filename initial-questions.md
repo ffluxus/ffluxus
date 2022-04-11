@@ -1,6 +1,9 @@
 All of these are questions about you, i'm not trying to get universal definitions, just answer as personally as you feel comfortable sharing. You don't have to answer any of these, and you don't need to get straight to the point. Its more like a guided conversation.
 
-1. To you, what is a "public" place?
+1. Where are you now? How would you describe it to me?
+2. Where is your favorite place to be? Describe it, what do you see? Who do you meet?
+3. Where is you favorite place to go.
+4. To you, what is a "public" place?
 2. How do you feel about being "in public"?
 3. what are some public places you go to often? (Monthly? Weekly? Every day?)
 4. what is a "special" public place for you? Why?
@@ -15,4 +18,4 @@ All of these are questions about you, i'm not trying to get universal definition
 11. what's a public place where you get dressed up to go.
 12. what's a public place you would not want to get dressed up for?
 13. what's a public place that you go to that you associate with a song?
-14. 
+14. (If you could go anywhere?)

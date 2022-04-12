@@ -1,12 +1,20 @@
 [fflux.us](https://fflux.us)
 
 ---
+conversations:
+* [Dylan Oriley](https://youtu.be/DPEP5aq-NKY)
+* [Brandon Oldenburg](https://youtu.be/PCOp2d2Xlmo)
+* [Curtis Saxton](https://youtu.be/l2hDy_OJNYU)
+
+---
 ## Status
 #Active 
 **Tasks:**
 - [x] set up domain and workspace
 - [x] send out invite for initial google meetings
 - [ ] document meetings and next steps
+
+
 
 ---
 ## Goals 
@@ -59,7 +67,16 @@ Timeline:
 - meeting scheduled with (Todd Steinberg)[https://praisefloyd.com/]
 - meeting scheduled with (Curtis Saxton)[https://thecreativefinder.com/saxdes]
 - initial [question list](https://github.com/ffluxus/ffluxus/blob/main/initial-questions.md) in process
-- 
+
+2022-04-11
+- conversation with Dylan
+- conversation with Brandon
+
+2022-04-12
+- conversation with Curt 
+- class meeting
+
+
 ---
 ## Meeting Notes and Agenda
 

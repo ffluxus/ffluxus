@@ -51,7 +51,7 @@ Timeline:
 2022-04-08
 - [project description](https://github.com/ffluxus/org/blob/main/initial-project-description.md) revisions
 - discussion with Caitlin Watkins @ dinner
-- initial sharing of project description with [Robert Francis](https://www.rmfrancis.net/) and [Mita Mahato](https://mitamahato.com/)
+- initial sharing of project description with [RM Francis](https://www.rmfrancis.net/) and [Mita Mahato](https://mitamahato.com/)
 
 2022-04-09
 - initial sharing of project description with [Dylan Oriley](https://www.invmntn.com/)
@@ -66,18 +66,21 @@ Timeline:
 2022-04-10
 - initial [video invitation](https://youtu.be/AaGrtUdKXHE) to meetings recorded and sent out (via facebook, instagram, & text)
 - [Appointment Calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU95WWtMQm9xbzZJfGRlZmF1bHR8YjU2MWEzMzQzZjRiODNlYWU4N2IzMTk1YzA4ZGEwMGY) shared
-- meeting scheduled with (Todd Steinberg)[https://praisefloyd.com/]
-- meeting scheduled with (Curtis Saxton)[https://thecreativefinder.com/saxdes]
+- meeting scheduled with [Todd Steinberg](https://praisefloyd.com/)
+- meeting scheduled with [Curtis Saxton](https://thecreativefinder.com/saxdes)
 - initial [question list](https://github.com/ffluxus/ffluxus/blob/main/initial-questions.md) in process
 
 2022-04-11
-- conversation with Dylan
-- conversation with Brandon
+- conversation with [Dylan Oriley](https://www.invmntn.com/)
+- conversation with [Brandon Oldenburg](https://en.wikipedia.org/wiki/Brandon_Oldenburg)
 
 2022-04-12
-- conversation with Curt 
+- conversation with Curt Saxton
 - class meeting
 
+2022-04-13
+- conversation with [RM Francis](https://www.rmfrancis.net/)
+- conversation with [Todd Steinberg](https://praisefloyd.com/)
 
 ---
 ## Meeting Notes and Agenda

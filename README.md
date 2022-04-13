@@ -5,6 +5,8 @@ conversations:
 * [Dylan Oriley](https://youtu.be/DPEP5aq-NKY)
 * [Brandon Oldenburg](https://youtu.be/PCOp2d2Xlmo)
 * [Curtis Saxton](https://youtu.be/l2hDy_OJNYU)
+* [RM Francis (re-enactment)](https://youtu.be/oWFNSsffOmE)
+* [Todd Steinberg](https://youtu.be/tZX3hLM2JiM)
 
 ---
 ## Status
@@ -85,3 +87,4 @@ Timeline:
 ### Contacts
 ### Links
 ### Bibliography
+  [Helguera Excerpt](https://drive.google.com/file/d/1fXFmSEvjyrxiqz4hTnthXBLoIjKupbol/view?usp=sharing)

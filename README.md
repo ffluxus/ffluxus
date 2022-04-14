@@ -7,6 +7,10 @@ conversations:
 * [Curtis Saxton](https://youtu.be/l2hDy_OJNYU)
 * [RM Francis (re-enactment)](https://youtu.be/oWFNSsffOmE)
 * [Todd Steinberg](https://youtu.be/tZX3hLM2JiM)
+* [Chad Fisher](https://youtu.be/Qf9erZQVj9Q)
+* [Jodee Lynch](https://youtu.be/YSUsUfxXkII)
+* [Caitlin Watkins](https://youtu.be/SeYC72l_G6g)
+* [Noel Harris](https://youtu.be/Ui1rUTdmR1Q)
 
 ---
 ## Status
@@ -29,8 +33,10 @@ conversations:
 **Expenses:**
 
 2022-04-07 #james Domain name: $12
-
 2022-04-09 #james google workspace account: $6 per month
+2022-04-07 #james Vinyl Sticker Paper: $12.08
+
+
 
 
 **Projected:**
@@ -81,6 +87,12 @@ Timeline:
 2022-04-13
 - conversation with [RM Francis](https://www.rmfrancis.net/)
 - conversation with [Todd Steinberg](https://praisefloyd.com/)
+- conversation with [Jodee Lynch]
+- conversation with [Chad Fisher]
+- conversation with [Caitlin Watkins]
+
+2022-04-14
+- conversation with [Noel Harris]
 
 ---
 ## Meeting Notes and Agenda

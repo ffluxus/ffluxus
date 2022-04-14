@@ -11,6 +11,8 @@ conversations:
 * [Jodee Lynch](https://youtu.be/YSUsUfxXkII)
 * [Caitlin Watkins](https://youtu.be/SeYC72l_G6g)
 * [Noel Harris](https://youtu.be/Ui1rUTdmR1Q)
+* [Jessica Edwards-Bartz](https://youtu.be/l27Ahc9THQI)
+* 
 
 ---
 ## Status

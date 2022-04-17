@@ -12,6 +12,12 @@ conversations:
 * [Caitlin Watkins](https://youtu.be/SeYC72l_G6g)
 * [Noel Harris](https://youtu.be/Ui1rUTdmR1Q)
 * [Jessica Edwards-Bartz](https://youtu.be/l27Ahc9THQI)
+* [Paul Leicht](https://youtu.be/2YPcx4uR_h0)
+* [Mark Dalton](https://youtu.be/_wsWkbzuK3g)
+* [Ian Halloran](https://youtu.be/vrQHqM8z2UE)
+* [Erik Turnberg](https://youtu.be/GyGlzK36QuU)
+* [Aaron Bartz](https://youtu.be/uhh6NHs_3bo)
+* [Paul Porter](https://youtu.be/1a6TTYBHoU8)
 * 
 
 ---

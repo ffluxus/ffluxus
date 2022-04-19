@@ -28,7 +28,7 @@ conversations:
 - [x] send out invite for initial google meetings
 - [x] document meetings
 - [x] doodle account set up
-- [ ] set up google analytics
+- [x] set up google analytics
 - [ ] set up cloud build triggers
 - [ ] setup publit.io account
 - [ ] Cloud Run connected to publit.io
@@ -105,6 +105,11 @@ Timeline:
 - conversation with [Ian Halloran]
 - conversation with [Aaron Bartz]
 - conversation with [Mark Dalton]
+
+2022-04-18
+- configure Analytics
+- Configure Cloud Build and github Trigger
+- set up publit.io
 
 ---
 ## Meeting Notes and Agenda

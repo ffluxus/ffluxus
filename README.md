@@ -108,7 +108,7 @@ Timeline:
 
 2022-04-18
 - configure Analytics
-- Configure Cloud Build and github Trigger
+- Configure Cloud Build trigger
 - set up publit.io
 
 ---

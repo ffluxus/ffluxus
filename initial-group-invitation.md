@@ -1,0 +1,3 @@
+Hi friends!
+
+Thank you all so much for participating in the first round of individual collaborative discussions. It has been a fascinating experiment, and I've learned a lot in meeting with each of you. If you haven't yet taken a look at the repository i've set up, you'll find a link at [fflux.us](https://fflux.us). It's currently serving as a container for the videos and other content being generated.

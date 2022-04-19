@@ -18,23 +18,21 @@ conversations:
 * [Erik Turnberg](https://youtu.be/GyGlzK36QuU)
 * [Aaron Bartz](https://youtu.be/uhh6NHs_3bo)
 * [Paul Porter](https://youtu.be/1a6TTYBHoU8)
-* 
 
 ---
 ## Status
 #Active 
 **Tasks:**
 - [x] set up domain and workspace
+- [x] cloud run configured
 - [x] send out invite for initial google meetings
-- [ ] document meetings and next steps
-
-
-
----
-## Goals 
-**Requirements:**
-
-**Key Objectives:**
+- [x] document meetings
+- [x] doodle account set up
+- [ ] set up google analytics
+- [ ] set up cloud build triggers
+- [ ] setup publit.io account
+- [ ] Cloud Run connected to publit.io
+- [ ] send out invitation to collaborative group meeting
 
 ---
 ## Budget
@@ -44,15 +42,10 @@ conversations:
 2022-04-09 #james google workspace account: $6 per month
 2022-04-07 #james Vinyl Sticker Paper: $12.08
 
-
-
-
 **Projected:**
-
 filing llc for non-profit organization
 
-**Materials:**
-
+**Materials Needed:**
 
 ---
 Timeline:
@@ -101,6 +94,17 @@ Timeline:
 
 2022-04-14
 - conversation with [Noel Harris]
+- conversation with [Jessica Edwards-Bartz]
+
+2022-04-15
+- conversation with [Ryan Cox]
+- conversation with [Paul Porter]
+
+2022-04-16
+- conversation with [Erik Turnberg]
+- conversation with [Ian Halloran]
+- conversation with [Aaron Bartz]
+- conversation with [Mark Dalton]
 
 ---
 ## Meeting Notes and Agenda
